@@ -27,3 +27,6 @@ $$D_{Tobacco} = \{OldGold, Kools, Chesterfields, LuckyStrike, Parliaments \}$$
 
 ### Pet
 $$D_{Pet} = \{Dog, Snails, Fox, Horse, Zebra \}$$
+
+Sau khi thử tất cả các cách thì File Trí Tuệ nhân tạo nhóm 2.pdf là file làm bài hoàn chỉnh. 
+- Cách giải tay AC-3 thuần tùy là quá lâu, chỉ áp dụng kiến thử để loại tay chứ ko phải tuân theo model và cuối cùng là dùng backtrack để chọn kết quả và loại dần.
