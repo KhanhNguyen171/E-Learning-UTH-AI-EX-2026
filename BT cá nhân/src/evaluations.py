@@ -24,9 +24,9 @@ def regression_report(y, y_pred):
 
     print("Regression Report")
     print("------------------")
-    print(f"MAE  : {mae:.4f}")
-    print(f"MSE  : {mse:.4f}")
-    print(f"RMSE : {rmse:.4f}")
-    print(f"R2   : {r2:.4f}")
-    print(f"MAPE : {mape:.4f}")
+    print(f"MAE  : {mae:.2f}")
+    print(f"MSE  : {mse:.2f}")
+    print(f"RMSE : {rmse:.2f}")
+    print(f"R2   : {r2:.2f}")
+    print(f"MAPE : {mape:.2f}")
 
