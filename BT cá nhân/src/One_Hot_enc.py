@@ -20,6 +20,7 @@ def one_hot_encode(df, cols):
     """
 
     encoder = OneHotEncoder(
+        drop='first',
         sparse_output=False,
         handle_unknown='ignore',
         dtype=int
